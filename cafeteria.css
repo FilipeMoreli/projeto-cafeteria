@@ -50,7 +50,7 @@ header nav{
 }
 
 .banner{
-  background-image: url("assets/parallax-imagem1.png");
+  background-image: url("parallax-imagem1.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -93,7 +93,7 @@ header nav{
 }
 
 .banner2{
-    background-image:url("assets/parallax-imagem2.jpg");
+    background-image:url("parallax-imagem2.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -141,7 +141,7 @@ header nav{
 
 
 .banner3{
-    background-image:url("assets/parallax-imagem3.jpg");
+    background-image:url("parallax-imagem3.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -188,7 +188,7 @@ header nav{
 }
 
 .contato-endereco{
-    background-image:url("assets/parallax-imagem4.png");
+    background-image:url("parallax-imagem4.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -232,7 +232,7 @@ header nav{
 .horarios {
     font-family: Arial, sans-serif;
     color: white;
-    background-image:url("assets/cafeteria.jpg");
+    background-image:url("cafeteria.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
